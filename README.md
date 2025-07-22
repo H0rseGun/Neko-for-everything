@@ -29,6 +29,7 @@
 
 * `gemini-1.5-flash`
 * `gemini-2.0-flash`
+* `gemini-2.5-flash（需要直接发送，而不是设为提示词）`
 
 ### 适用于`neko-v2-r18`的模型
 
