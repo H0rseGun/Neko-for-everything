@@ -10,6 +10,8 @@
 
 ## 适用的模型
 
+* 建议使用 `neko_new_v1`
+
 ### 适用于`neko`的模型
 
 * `gemini-1.5-flash`
@@ -39,3 +41,15 @@
 * `deepseek-r1`
 * `deepseek-v3`
 * `其他模型（GPT系列模型无法使用，更多待测试）`
+
+### 适用于 `neko_new_v1`的模型
+
+* `gemini-1.5-flash`
+* `gemini-2.0-flash`
+* `gemini-2.5-flash`
+* `deepseek-r1`
+* `deepseek-v3`
+* `gpt-5`
+* `grok-3`
+* `grok-4`
+* `其他模型`
